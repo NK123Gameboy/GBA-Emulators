@@ -2,9 +2,9 @@
 <html>
     <head>
         <body>
-            <title>Fyeofly.com - GBA emulators </title>
+            <title>Fyeofly - GBA emulators </title>
             <font face="calibri">
-                <li><a href="https://fyeofly.weebly.com">Weebly Website</a></li>
+                <li><a href="https://harambedidntdeserveit.weebly.com">Weebly Website</a></li>
                 <li><a href="launcher.html#advancewars">Advance Wars</a></li>
                 <li><a href="launcher.html#advancewars2">Advance Wars 2</a></li>
                 <li><a href="launcher.html#aladdin">Aladdin</a></li>
