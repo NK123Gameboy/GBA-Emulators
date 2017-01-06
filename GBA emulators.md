@@ -1,9 +1,10 @@
-# GBA-Emulators
-Dozens of GBA emulators ( Press ctrl-f to search use the search bar )
-<body>
-            <title>Fyeofly GBA emulators</title>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <body>
+            <title>Fyeofly.com - GBA emulators </title>
             <font face="calibri">
-                <li><a href="https://Fyeofly.weebly.com">Weebly Website</a></li>
+                <li><a href="https://fyeofly.weebly.com">Weebly Website</a></li>
                 <li><a href="launcher.html#advancewars">Advance Wars</a></li>
                 <li><a href="launcher.html#advancewars2">Advance Wars 2</a></li>
                 <li><a href="launcher.html#aladdin">Aladdin</a></li>
@@ -18,9 +19,9 @@ Dozens of GBA emulators ( Press ctrl-f to search use the search bar )
                 <li><a href="launcher.html#digimon_racing">Digimon Racing</a></li>
                 <li><a href="launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a></li>
                 <li><a href="launcher.html#drilldozer">Drill Dozer</a></li>
-                <li><a href="launcher.html#earthwormjim">Earthworm Jim</a></li><a href="launcher.html#earthwormjim">
-                </a><li><a href="launcher.html#earthwormjim"></a><a href="launcher.html#earthwormjim2">Earthworm Jim 2</a></li>
-                <li><a href="launcher.html#ff1and2">Final Fantasy 1 &amp; 2 Advance</a></li>
+                <li><a href="launcher.html#earthwormjim">Earthworm Jim</li>
+                <li><a href="launcher.html#earthwormjim2">Earthworm Jim 2</a></li>
+                <li><a href="launcher.html#ff1and2">Final Fantasy 1 & 2 Advance</a></li>
                  <li><a href="./launcher.html#ff4S">Final Fantasy IV Advance (Sound Restoration Mod)</a></li>
             <li><a href="./launcher.html#ff6">Final Fantasy VI Advance</a></li>
             <li><a href="./launcher.html#final_fantasy_tactics">Final Fantasy Tactics Advance</a></li>
@@ -89,7 +90,7 @@ Dozens of GBA emulators ( Press ctrl-f to search use the search bar )
             <li><a href="./launcher.html#tak2_staff_of_dreams">Tak 2: The Staff of Dreams</a></li>
             <li><a href="./launcher.html#tmnt">Teenage Mutant Ninja Turtles</a></li>
             <li><a href="./launcher.html#tetris_worlds">Tetris Worlds</a></li>
-            <li><a href="./launcher.html#sims_bustin_out">The Sims: Bustin ' Out</a></li>
+            <li><a href="./launcher.html#sims_bustin_out">The Sims: Bustin &#39; Out</a></li>
             <li><a href="./launcher.html#sims2">The Sims 2</a></li>
             <li><a href="./launcher.html#simpsons">The Simpsons: Road Rage</a></li>
             <li><a href="./launcher.html#turok_evolution">Turok Evolution</a></li>
@@ -97,9 +98,13 @@ Dozens of GBA emulators ( Press ctrl-f to search use the search bar )
             <li><a href="./launcher.html#wario_ware">Wario Ware Inc</a></li>
             <li><a href="./launcher.html#zelda_past">The Legend of Zelda: A Link to the Past</a></li>
             <li><a href="./launcher.html#zelda_minish">The Legend of Zelda: The Minish Cap</a></li>
-          
-        
-Enjoy the games -     
-    
-
-</body>
+            <h4>Enjoy The Games</h4>
+             <!-- begin wwww.htmlcommentbox.com -->
+     <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
+    <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+     <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24HDvqzspYr.fHT0Iw3%2Fj0p0"+"&opts=16862&num=10&ts=1461867635151");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+            <!-- end www.htmlcommentbox.com -->
+            </font>
+        </body>
+    </head>
+</html>
